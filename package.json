@@ -1,0 +1,32 @@
+{
+  "name": "express-numeral",
+  "version": "1.0.0",
+  "description": "express your package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanford-fox-2016/npm-package.git"
+  },
+  "keywords": [
+    "express, roman numeral"
+  ],
+  "author": "ryanandhaka <ryan.andhaka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blanford-fox-2016/npm-package/issues"
+  },
+  "homepage": "https://github.com/blanford-fox-2016/npm-package#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node":">=6.0.0"
+  }
+}
