@@ -1,6 +1,8 @@
 # npm-package
 
-express-numeral is package that transform your 
+[![Build Status](https://travis-ci.org/ryanandhaka/travis-ci-npm-package.svg?branch=master)](https://travis-ci.org/ryanandhaka/travis-ci-npm-package)
+
+express-numeral is package that transform your
 arabic numeral :left_right_arrow: roman numeral
 
 Installation
