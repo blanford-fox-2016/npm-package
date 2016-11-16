@@ -1,0 +1,29 @@
+{
+  "name": "about-prime",
+  "version": "1.0.0",
+  "description": "creating npm package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanford-fox-2016/npm-package.git"
+  },
+  "author": "broerjuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blanford-fox-2016/npm-package/issues"
+  },
+  "homepage": "https://github.com/blanford-fox-2016/npm-package#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  },
+  "engines": {
+    "node":">=6.0.0"
+  }
+}
